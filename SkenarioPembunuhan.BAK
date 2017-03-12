@@ -41,11 +41,11 @@ CLAUSES
             dendam(vita,oliv).
             dendam(jhalyl,andi).
            
-            terbunuh_dengan(andi,ditusuk).terbunuh_dengan(arinda,ditusuk).
+            terbunuh_dengan(andi,ditusuk).terbunuh_dengan(susi,ditusuk).
             terbunuh_dengan(mahathir,ditembak).terbunuh_dengan(kelvin,ditembak).
             terbunuh_dengan(andre,ditembak).
             
-            terbunuh(andi).terbunuh(arinda).
+            terbunuh(andi).terbunuh(susi).
             terbunuh(mahathir).terbunuh(kelvin).
             terbunuh(andre).
            

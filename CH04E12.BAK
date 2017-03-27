@@ -146,7 +146,7 @@ clauses
 % - Killer (Nama Pembunuh) Merupakan Pembunuh Jika
 % - Pembunuh Seseorang Berusia, Berjenis Kelamin serta profesi apa saja,
 % - Orang yang terbunuh Adalah Susan Dapat Dilihat dari fakta sebelumnya,
-% - lalu pembunuh serta yang terbunuh adalah orang yang berbeda jadi pembunuh bukan orang yang terbunuh.
+% - lalu pembunuh serta yang terbunuh adalah orang yang berbeda.
 % - Pembunuh Merupakan Tersangka yang memiliki hubungan dengan orang yang terbunuh dapat dilihat dari 4 kemungkinan suspect (Tersangka) Ada 3 Kondisi Yang Memiliki keterkaitan Dengan Susan
 % A. Fakta Pertama Memiliki Kondisi Jika Susan Terbunuh dengan Weapon(belum diketahui) Lalu kita periksa fakta killed_with bahwa susan terbunuh dengan senjata club, club ini memiliki hubungan
 %    dengan wooden_leg, pada wooden_leg memiliki fakta bahwa dimiliki oleh bert sedangkan bar & football_boot yang berhubungan dengan club tidak memiliki fakta keterangan kepemilikan.
